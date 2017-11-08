@@ -31,3 +31,10 @@ figcaption{
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/* Id Selector (apply to one unique element per page) */
+/* Select elements with id = "logo"  */
+
+#logo{
+  background: aqua;
+}
