@@ -1,0 +1,11 @@
+/* CSS Syntax
+selector {
+property: value
+}
+*/
+/* Type selector */
+/* Select all <p> */
+p{
+  font-size: 1em; /* 16px, ?pt, 100%, 1em - usually 1 em is 16 px. Its better to use em over px */
+  line-height: 1.5em;
+}
