@@ -22,3 +22,12 @@ figcaption{
   color: #777;
   text-align: right;
 }
+
+/* Class selector (applied to as many elements as you like)*/
+/* Selects element with class = "milk-text" */
+
+.milk-text{
+  font: bold 2.6em "Elsie Swash Caps", cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
