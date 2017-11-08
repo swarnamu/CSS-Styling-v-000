@@ -38,3 +38,14 @@ figcaption{
 #logo{
   background: aqua;
 }
+
+/* Descendent selector */
+/* Selects <h1> if inside id = "logo" */
+
+#logo h1 {
+  font-family: "Clicker Script", cursive;
+}
+
+#logo h2 {
+  font-family: "Elsie Swash Caps", cursive;
+}
